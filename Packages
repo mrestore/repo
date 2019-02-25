@@ -12,17 +12,16 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.bundle.com
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (<12.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.bundle.com.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+MD5sum: 3653ce516eb30d0f861504dbd8baa3f76954d5d5
+Description: noooot old package. Firmware should be lower than 7.0
+Name: nanomof
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
